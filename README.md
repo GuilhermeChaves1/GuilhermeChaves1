@@ -4,7 +4,7 @@ Desenvolvedor Full Stack, com mais de 8 anos em front-end e atuação atual de p
 
 Especialista em Vue.js, Node.js, PostgreSQL e integração com APIs. Na RPM, desenvolve plataformas de promoções digitais de alto volume. Na Mandū, constrói o ecossistema Amanda IA.
 
-Osasco, SP
+Osasco, SP · [devchaves.is-a.dev](https://devchaves.is-a.dev/)
 
 ## Stack
 
@@ -19,5 +19,6 @@ Osasco, SP
 
 ## Contato
 
+- [devchaves.is-a.dev](https://devchaves.is-a.dev/)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-da-costa-chaves-9a055a155/)
 - guilhermechaves11@gmail.com
